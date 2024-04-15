@@ -10,9 +10,13 @@
         <br/>
         <p align="center">Welcome to Mord Mora's GitHub!!<p/>
         <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&random=false&width=435&lines=I+love+pointers+to+pointers+to+pointers..." alt="Typing SVG"/><p/>
-      <br>
       <b>
-        <p align="center"> ~ Daniel Bonnett ~<p/>
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/30435868/42072217-045e7e62-7b25-11e8-89d1-3ef001e23e05.gif">
+
+<h4>
+My name is Daniel Bonnett, I am a seventh-semester student of systems engineering at the University of Magdalena in Colombia. I am 19 years old. I have a strong interest in low-level software development, compilers, reverse engineering, and operating systems
+</h4><br><p/>
       </b>
     </samp>
   </p>
@@ -22,12 +26,6 @@
 <details>
 <summary><samp><b>More Info</b></samp></summary>
 
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/30435868/42072217-045e7e62-7b25-11e8-89d1-3ef001e23e05.gif">
-
-<h4>
-My name is Daniel Bonnett, I am a seventh-semester student of systems engineering at the University of Magdalena in Colombia. I am 19 years old. I have a strong interest in low-level software development, compilers, reverse engineering, and operating systems
-</h4><br>
 
 <!-- Contact Me -->
 <p align="center">
@@ -37,6 +35,10 @@ My name is Daniel Bonnett, I am a seventh-semester student of systems engineerin
 </p>
 
 <h2></h2><br>
+
+<!--Skills -->
+<p align="center">
+<h4> I possess proficiency in a diverse range of programming languages, including C, C++, Python, and Assembler (specifically NASM x86_64). Moreover, I have honed my expertise in mobile application development using the Flutter framework. <h4/>
 
 <!-- Profile Views Badge -->
 <p align="center">
