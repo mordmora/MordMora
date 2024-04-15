@@ -5,14 +5,14 @@
 <p align="left"><strong><samp>「</samp></strong></p>
   <p align="center">
     <samp>
-        <img src="https://media.tenor.com/KVvbMEs_8a8AAAAi/#umaru-party-anime-girl.gif" width=100 style="transform: scaleY(-1);"/>
+        <img src="https://media.tenor.com/KVvbMEs_8a8AAAAi/#umaru-party-anime-girl.gif" width=100 style="transform: scaleX(-1);"/>
         <img src="https://media.tenor.com/KVvbMEs_8a8AAAAi/#umaru-party-anime-girl.gif" width=100/>
         <br/>
         <p align="center">Welcome to Mord Mora's GitHub!!<p/>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&random=false&width=435&lines=I+love+pointers+to+pointers+to+pointers..." alt="Typing SVG"/>
+        <center><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&random=false&width=435&lines=I+love+pointers+to+pointers+to+pointers..." alt="Typing SVG"/><center/>
       <br>
       <b>
-        ~ Daniel Bonnett ~
+        <p align="center"> ~ Daniel Bonnett ~<p/>
       </b>
     </samp>
   </p>
