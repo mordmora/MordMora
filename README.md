@@ -9,7 +9,7 @@
         <img src="https://media.tenor.com/KVvbMEs_8a8AAAAi/#umaru-party-anime-girl.gif" width=100/>
         <br/>
         <p align="center">Welcome to Mord Mora's GitHub!!<p/>
-        <center><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&random=false&width=435&lines=I+love+pointers+to+pointers+to+pointers..." alt="Typing SVG"/><center/>
+        <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&center=true&random=false&width=435&lines=I+love+pointers+to+pointers+to+pointers..." alt="Typing SVG"/><p/>
       <br>
       <b>
         <p align="center"> ~ Daniel Bonnett ~<p/>
