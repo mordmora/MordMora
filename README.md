@@ -15,7 +15,7 @@
     <img src="https://user-images.githubusercontent.com/30435868/42072217-045e7e62-7b25-11e8-89d1-3ef001e23e05.gif" width=300>
 
 <h4>
-My name is Daniel Bonnett, I am a seventh-semester student of systems engineering at the University of Magdalena in Colombia. I am 19 years old. I have a strong interest in low-level software development, compilers, reverse engineering, and operating systems
+My name is Daniel Bonnett, I am a seventh-semester student of systems engineering at the "Universidad Del Magdalena" in Colombia. I am 19 years old. I have a strong interest in low-level software development, compilers, reverse engineering, and operating systems
 </h4><br><p/>
       </b>
     </samp>
