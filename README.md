@@ -9,7 +9,7 @@
         <img src="https://media.tenor.com/KVvbMEs_8a8AAAAi/#umaru-party-anime-girl.gif" width=100/>
         <br/>
         <p align="center">Welcome to Mord Mora's GitHub!!<p/>
-        <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=HPC+is+the+future"/><p/>
+        <p align="center"><image src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&random=false&width=435&lines=HPC+is+the+future"/><p/>
       <b>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/30435868/42072217-045e7e62-7b25-11e8-89d1-3ef001e23e05.gif" width=300>
