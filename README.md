@@ -11,7 +11,7 @@
 <p align="center">
 
 <h4>
-My name is Daniel Bonnett, I am a seventh-semester student of systems engineering at the "Universidad Del Magdalena" in Colombia. I am 19 years old. I have a strong interest in low-level software development, HPC, compilers, reverse engineering, and operating systems
+My name is Daniel Bonnett, I am a eighth semester student of systems engineering at the "Universidad Del Magdalena" in Colombia. I am 20 years old. I have a strong interest in low-level software development, HPC, compilers, reverse engineering, and operating systems
 </h4><br><p/>
       </b>
     </samp>
