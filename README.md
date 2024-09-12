@@ -9,7 +9,6 @@
         <p align="center">Welcome to Mord Mora's GitHub!!<p/>
       <b>
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/30435868/42072217-045e7e62-7b25-11e8-89d1-3ef001e23e05.gif" width=300>
 
 <h4>
 My name is Daniel Bonnett, I am a seventh-semester student of systems engineering at the "Universidad Del Magdalena" in Colombia. I am 19 years old. I have a strong interest in low-level software development, HPC, compilers, reverse engineering, and operating systems
